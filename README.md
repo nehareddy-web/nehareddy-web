@@ -47,7 +47,7 @@ neha = {
 <img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/agentic-bi-dashboard.png" width="92%" alt="Agentic BI Assistant evaluation dashboard"/>
 </a>
 </div>
-**[View repository →](https://github.com/nehareddy-web/REPO-NAME)**
+**[View repository →](https://github.com/nehareddy-web/agentic-bi-assistant)**
 <!-- EDIT: replace REPO-NAME with your agentic BI repo name -->
 
 ```mermaid
@@ -86,7 +86,7 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/meeting-agent-results.png" width="92%" alt="Meeting notes agent evaluation results"/>
 </a>
 </div>
-**[View repository →](https://github.com/nehareddy-web/REPO-NAME)**
+**[View repository →](https://github.com/nehareddy-web/Ai-meeting-notes-and-action-item-agent)**
 <!-- EDIT: replace REPO-NAME with your meeting agent repo name -->
 
 ![Text F1](https://img.shields.io/badge/Text_extraction_F1-0.947-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF)
