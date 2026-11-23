@@ -48,9 +48,8 @@ neha = {
 </a>
 </div>
 **[View repository →](https://github.com/nehareddy-web/agentic-bi-assistant)**
-<!-- EDIT: replace REPO-NAME with your agentic BI repo name -->
 
-```mermaid
+'''mermaid
 flowchart LR
     Q([Question]) --> P[Planner<br/>splits into tool steps]
     P --> E[Executor<br/>sql · api · kb]
@@ -61,7 +60,6 @@ flowchart LR
     classDef check fill:#0D1117,stroke:#818CF8,color:#E6EDF3;
     class P,E,A plan;
     class V check;
-```
 
 ![Test cases](https://img.shields.io/badge/53_test_cases-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF)
 ![Pass rate](https://img.shields.io/badge/Pass_rate-86.8%25_→_100%25-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF)
@@ -86,7 +84,7 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/meeting-agent-results.png" width="92%" alt="Meeting notes agent evaluation results"/>
 </a>
 </div>
-**[View repository →](https://github.com/nehareddy-web/Ai-meeting-notes-and-action-item-agent)**
+**[View repository →](https://github.com/nehareddy-web/AI-meeting-notes-and-action-items-agent)**
 <!-- EDIT: replace REPO-NAME with your meeting agent repo name -->
 
 ![Text F1](https://img.shields.io/badge/Text_extraction_F1-0.947-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF)
@@ -103,7 +101,7 @@ flowchart LR
 
 ---
 
-### 3 · RAG-Based Domain Document Q&A System with Evaluation
+3 · RAG-Based Domain Document Q&A System with Evaluation
 *A retrieval pipeline built around measurement: chunk size and overlap are chosen by Hit@k and MRR, not by guessing.*
 
 <div align="center">
