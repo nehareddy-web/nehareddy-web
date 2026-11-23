@@ -1,7 +1,7 @@
 <!-- ============================================================
   GITHUB PROFILE README - Neha Reddy
   Put this README.md in a PUBLIC repo named exactly: nehareddy-web
-  Also upload the 4 files from the "images" folder into an "images" folder in that repo.
+  Also upload the 4 image files (png) directly into the root of that repo, no folder.
   Search "EDIT" for the few things to check before publishing.
   Palette: slate #0D1117 · text #E6EDF3 · teal #2DD4BF · indigo #818CF8
 ============================================================= -->
@@ -43,10 +43,11 @@ neha = {
 *Ask business questions in plain English. A LangGraph agent routes to SQL, a REST API or a knowledge base, validates the result and answers only from tool output.*
 
 <div align="center">
-<a href="https://github.com/nehareddy-web/REPO-NAME">
-<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/images/agentic-bi-dashboard.png" width="92%" alt="Agentic BI Assistant evaluation dashboard"/>
+<a href="https://github.com/nehareddy-web/nehareddy-web/blob/main/agentic-bi-dashboard.png">
+<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/agentic-bi-dashboard.png" width="92%" alt="Agentic BI Assistant evaluation dashboard"/>
 </a>
 </div>
+**[View repository →](https://github.com/nehareddy-web/REPO-NAME)**
 <!-- EDIT: replace REPO-NAME with your agentic BI repo name -->
 
 ```mermaid
@@ -81,10 +82,11 @@ flowchart LR
 *Turns meeting transcripts and audio into structured, schema-valid action items.*
 
 <div align="center">
-<a href="https://github.com/nehareddy-web/REPO-NAME">
-<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/images/meeting-agent-results.png" width="92%" alt="Meeting notes agent evaluation results"/>
+<a href="https://github.com/nehareddy-web/nehareddy-web/blob/main/meeting-agent-results.png">
+<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/meeting-agent-results.png" width="92%" alt="Meeting notes agent evaluation results"/>
 </a>
 </div>
+**[View repository →](https://github.com/nehareddy-web/REPO-NAME)**
 <!-- EDIT: replace REPO-NAME with your meeting agent repo name -->
 
 ![Text F1](https://img.shields.io/badge/Text_extraction_F1-0.947-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF)
@@ -105,8 +107,8 @@ flowchart LR
 *A retrieval pipeline built around measurement: chunk size and overlap are chosen by Hit@k and MRR, not by guessing.*
 
 <div align="center">
-<a href="https://github.com/nehareddy-web/RAG-Based-Domain-Document-Q-A-System-with-Evaluation">
-<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/images/rag-eval.png" width="92%" alt="RAG retrieval evaluation by chunk size"/>
+<a href="https://github.com/nehareddy-web/nehareddy-web/blob/main/rag-eval.png">
+<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/rag-eval.png" width="92%" alt="RAG retrieval evaluation by chunk size"/>
 </a>
 </div>
 
@@ -118,31 +120,22 @@ flowchart LR
 
 Larger chunks matched or beat smaller ones with **~3x fewer chunks**, so the 1500 / 200 setup is the better trade-off here. *Small evaluation set, so treat it as a direction, not a verdict.*
 
+**[View repository →](https://github.com/nehareddy-web/RAG-Based-Domain-Document-Q-A-System-with-Evaluation)**
+
 `Python` `RAG` `Retrieval evaluation` `Hit@k` `MRR`
 
 ---
 
 ## Analytics & BI Work
 
-<div align="center">
-
-<a href="https://github.com/nehareddy-web/pmo-project-portfolio-dashboard">
-<img src="https://raw.githubusercontent.com/nehareddy-web/pmo-project-portfolio-dashboard/main/images/Dashboard_All_Results.png" width="85%" alt="PMO dashboard"/>
-</a>
-
-</div>
-<!-- EDIT: if your PMO repo name, branch or image file differs, fix the 2 links above -->
-
-#### [Operations & PMO Project Portfolio Dashboard](https://github.com/nehareddy-web/pmo-project-portfolio-dashboard)
-25 projects across 5 related tables with a RAG health score and "Management Action" recommendations.
-`Power BI` `DAX` `SQL` `Excel` `Python`
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### E-commerce Sales Dashboard
-<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/images/ecommerce-dashboard.png" width="100%" alt="E-commerce sales dashboard"/>
+<a href="https://github.com/nehareddy-web/nehareddy-web/blob/main/ecommerce-dashboard.png">
+<img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/ecommerce-dashboard.png" width="100%" alt="E-commerce sales dashboard"/>
+</a>
 
 Automated dashboard on **10,200+ sales records**: revenue **+15% YoY**, margin **+3.2 pp**, reporting time **-35%**, and drill-through that led to **7%** less overstock.
 
@@ -279,7 +272,7 @@ Analysed **7,500+ telecom records** to find the top churn drivers. Built a class
 
 - Making agent evaluations larger and more rigorous (bigger samples, semantic metrics beyond token-F1)
 - Improving **RAG** retrieval quality and **text-to-SQL** reliability
-- End-to-end dashboards (Operations, PMO, Healthcare), with Power BI connected directly to SQL
+- End-to-end dashboards (Operations, Healthcare), with Power BI connected directly to SQL
 
 ---
 
