@@ -47,7 +47,7 @@ neha = {
 <img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/agentic-bi-dashboard.png" width="92%" alt="Agentic BI Assistant evaluation dashboard"/>
 </a>
 </div>
-**[View repository →](https://github.com/nehareddy-web/agentic-bi-assistant)**
+[View repository →](https://github.com/nehareddy-web/agentic-bi-assistant)
 
 '''mermaid
 flowchart LR
@@ -84,7 +84,7 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/nehareddy-web/nehareddy-web/main/meeting-agent-results.png" width="92%" alt="Meeting notes agent evaluation results"/>
 </a>
 </div>
-**[View repository →](https://github.com/nehareddy-web/AI-meeting-notes-and-action-items-agent)**
+[View repository →](https://github.com/nehareddy-web/AI-meeting-notes-and-action-items-agent)
 <!-- EDIT: replace REPO-NAME with your meeting agent repo name -->
 
 ![Text F1](https://img.shields.io/badge/Text_extraction_F1-0.947-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF)
@@ -118,7 +118,7 @@ flowchart LR
 
 Larger chunks matched or beat smaller ones with **~3x fewer chunks**, so the 1500 / 200 setup is the better trade-off here. *Small evaluation set, so treat it as a direction, not a verdict.*
 
-**[View repository →](https://github.com/nehareddy-web/RAG-Based-Domain-Document-Q-A-System-with-Evaluation)**
+[View repository →](https://github.com/nehareddy-web/RAG-Based-Domain-Document-Q-A-System-with-Evaluation)
 
 `Python` `RAG` `Retrieval evaluation` `Hit@k` `MRR`
 
